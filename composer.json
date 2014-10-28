@@ -8,6 +8,11 @@
             "email": "stijn@vannieuwenhuyse.net"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Nortuni\\Essence\\": "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
