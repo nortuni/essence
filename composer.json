@@ -1,0 +1,13 @@
+{
+    "name": "nortuni/essence",
+    "description": "Library to help you build a rich domain model",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stijn Vannieuwenhuyse",
+            "email": "stijn@vannieuwenhuyse.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
